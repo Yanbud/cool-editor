@@ -4,7 +4,7 @@
 This project is a text editor that runs in the browser. It's a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application alse functions offline.
 
 ## Usage
-visit the website: <a href="https://cool-editor.herokuapp.com/">small-topic.herokuapp.com</a>
+visit the website: <a href="https://cool-editor.herokuapp.com/">https://cool-editor.herokuapp.com/</a>
 ## Screenshot
  <p dir="auto"><img src="Screenshot.png" alt="Screenshot" style="max-width: 100%;" /></p>
 
